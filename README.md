@@ -33,7 +33,7 @@
 
 <!-- Brief -->
 <p align="center">
-Welcome to <b>The Wild Oasis</b>! This is a hotel management web app, where hotel employees can manage cabins, bookings, and guests. It uses Supabase as the backend and implements advanced React techniques such as HOCs and React Query.
+Welcome to <b>HotelEase</b>! This is a hotel management web app, where hotel employees can manage cabins, bookings, and guests. It uses Supabase as the backend and implements advanced React techniques such as HOCs and React Query.
 </p>
 
 <!-- Screenshot -->
